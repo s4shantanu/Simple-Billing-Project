@@ -1,0 +1,4 @@
+Phone,700,34
+Laptop,1400,14
+HDD,200,1
+Camera,300,23
