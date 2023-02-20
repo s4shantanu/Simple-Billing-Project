@@ -1,4 +1,4 @@
-# Simple-Billing-Project
+# Simple-Billing-Project 🌟
 
 Python Simple Billing project 
 In this projet we need to add all product with quantity and upgrade them.
